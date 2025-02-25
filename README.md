@@ -7,12 +7,12 @@ Por favor marca a continuación los ejercicios que hayáis terminado:
 **4.1 Fundamentos de MySQL:**
 
 - [x] 1.  Crea la base de datos.
-- [ ] 2.  Inserta valores a la bases de datos.
+- [x] 2.  Inserta valores a la bases de datos.
 - [x] 3.  Crea un repositorio en Github.
 
 **4.2 CRUD MySQL:**
 
-- [ ] 1.  Consultas sobre las películas
+- [x] 1.  Consultas sobre las películas
 - [ ] 2.  Consultas sobre los actores.
 - [ ] 3.  Consultas sobre los usuarios.
 - [ ] 4.  Bonus: Agrega más campos a las tablas.
@@ -78,8 +78,6 @@ Por favor marca a continuación los ejercicios que hayáis terminado:
 
 - [ ] 1. Test Endpoint Movies
 - [ ] 2. Test Endpoint Register
-
-
 
 **Extras:**
 
