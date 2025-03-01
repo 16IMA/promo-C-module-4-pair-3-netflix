@@ -42,3 +42,7 @@ server.get('/movies', (req, res) => {
         movies: fakeMovies
     });
 });
+
+server.get('/', (req, res) => {
+    res.send('¡El servidor está funcionando correctamente!');
+});
